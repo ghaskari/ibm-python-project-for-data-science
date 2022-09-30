@@ -1,5 +1,8 @@
 # IBM Python Project for Data Science
 
+#### [Python Project for Data Science Certificate](https://www.coursera.org/account/accomplishments/certificate/YKZWL7THAR49)
+
+
 ## Project Overview
 For this project, you will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. After collecting this data you will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
 
@@ -18,4 +21,3 @@ For this project you will use Skills Network Labs and Watson Studio. Skills Netw
 There are two hands-on labs on Extracting Stock Data and one assignment to complete. You will be judged by completing two quizzes and one peer review assignment. The quizzes will test you based on the output of the hands-on labs. In the peer review assignment you will share and take screen shots of the outcomes of your assignment.
 
 
-#### [Python Project for Data Science Certificate](https://www.coursera.org/account/accomplishments/certificate/YKZWL7THAR49)
